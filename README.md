@@ -33,12 +33,12 @@ A full-stack real-time chat application with **one-on-one messaging**, **image s
 1. **Clone the Repository**
 
 2. **Install Dependencies**
-   - **Client**
+   - **Frontend**
      ```bash
      cd frontend
      npm install
      ```
-   - **Server**
+   - **Backend**
      ```bash
      cd backend
      npm install
